@@ -1,6 +1,6 @@
 # Hi there, I'm Arturo Ramos 👋
 
-![Imagen de Portada](campo.jpg)
+![Imagen de Portada](camportada.jpg)
 
 ## Descripción 
 Un expositor personal de Git para ir actualizando y desarrollando a medida que aprendo.
