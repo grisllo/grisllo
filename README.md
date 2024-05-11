@@ -1,15 +1,15 @@
-# Hi there, I'm Arturo Ramos 👋
+# ¡Un DESARROLLADOR salvaje apareció!
 
 ![Imagen de Portada](camportada.jpg)
 
-## Descripción 
-Un expositor personal de Git para ir actualizando y desarrollando a medida que aprendo.
+## ¿Quien? ¿Yo? 
+Hola! 👋 Me llamo Arturo, Arturo Ramos. Este perfil de GitHub de momento está siendo un poco campo de pruebas para manejarme con soltura en esto de los entornos de desarrollo que dominan el mercado. Esperemos que me vaya bien.
 
-## Características 
-- Característica 1
-- Característica 2
-- Característica 3
-
+## Habilidades 
+- Natural y digital
+- Gimme Knowledge!
+- ✨✨✨✨ ART
+<!--
 ## Instalación 
 Instrucciones para instalar y configurar el proyecto. 
 
