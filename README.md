@@ -3,7 +3,7 @@
 ![Imagen de Portada](camportada.jpg)
 
 ## ¿Quien? ¿Yo? 
-Hola! 👋 Me llamo Arturo, Arturo Ramos. Este perfil de GitHub de momento está siendo un poco campo de pruebas para manejarme con soltura en esto de los entornos de desarrollo que dominan el mercado. Esperemos que me vaya bien.
+Hola! 👋 Me llamo Arturo, **Arturo Ramos**. Este perfil de GitHub de momento está siendo un poco campo de pruebas para manejarme con soltura en esto de los entornos de desarrollo que dominan el mercado. Esperemos que me vaya bien.
 
 ## Habilidades 
 - Natural y digital
