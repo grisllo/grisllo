@@ -7,7 +7,7 @@ Hola! 👋 Me llamo Arturo, **Arturo Ramos**. Este perfil de GitHub de momento e
 
 ## Enlaces de interés
 
-[Guía Primeros Pasos con GitHub (Reto Entornos de Desarrollo)] (https://github.com/grisllo/retoGitArturoRamos)
+[Guía Primeros Pasos con GitHub (Reto Entornos de Desarrollo)](https://github.com/grisllo/retoGitArturoRamos)
 
 ## Habilidades 
 - Natural y digital
