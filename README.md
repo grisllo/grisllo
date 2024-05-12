@@ -8,7 +8,7 @@ Hola! 👋 Me llamo Arturo, **Arturo Ramos**. Este perfil de GitHub de momento e
 ## Habilidades 
 - Natural y digital
 - Gimme Knowledge!
-- ✨✨✨✨ ART
+- ✨✨✨✨✨✨✨✨✨✨✨
 <!--
 ## Instalación 
 Instrucciones para instalar y configurar el proyecto. 
